@@ -625,6 +625,10 @@ footer {
 
 
 @media screen and (min-width: 700px) {
+  section#beranda {
+    display: flex;
+  }
+  
   #menu .wrapper {
       display: flex;
       width: 800px;
