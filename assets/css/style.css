@@ -444,7 +444,7 @@ section#profil h1 {
   box-shadow: 2px 0px 3px rgba(120, 149, 178, .5);
   color: var(--warna-primer);
   margin-bottom: -1px;
-  background-color: var(--warna-sekunder);
+  background-color: var(--warna-latar);
   padding: 10px 40px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -453,7 +453,7 @@ section#profil h1 {
 aside section#profil article {
   width: 100%;
   border-radius: 40px;
-  background-color: var(--warna-sekunder);
+  background-color: var(--warna-latar);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -500,7 +500,7 @@ section#profil .wrapper-img {
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
   color: var(--warna-primer);
-  background-color: var(--warna-latar);
+  background-color: var(--warna-sekunder);
   display: flex;
   justify-content: flex-start;
   box-shadow: 2px 2px 3px rgba(120, 149, 178, .5);
@@ -511,7 +511,7 @@ section#profil .wrapper-img {
   border-radius: 4px;
   margin-top: -1px;
   color: var(--warna-primer);
-  background-color: var(--warna-latar);
+  background-color: var(--warna-sekunder);
   display: flex;
   justify-content: flex-start;
   box-shadow: 2px 2px 3px rgba(120, 149, 178, .5);
